@@ -1,0 +1,12 @@
+﻿ACTIVIDAD 2 - DETECCION DE ATIPICOS Y GROUPBY
+
+Maestria en Ciencia de Datos
+Fundamentos de Inteligencia Artificial
+
+REPOSITORIO GITHUB:
+https://github.com/alexroma1126-design/actividad-2-outliers-groupby-ecommerce
+
+Contenido:
+- Notebook ejecutado
+- Base de datos original
+- README con metodologia y resultados
